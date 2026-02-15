@@ -1,0 +1,21 @@
+{
+  "name": "aermolenko/calculator",
+  "description": "Calculator package for PHP 8",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "AErmolenko\\Calculator\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^8.0"
+  },
+  "authors": [
+    {
+      "name": "AErmolenko",
+      "email": "test@test.com"
+    }
+  ],
+  "minimum-stability": "stable"
+}

@@ -1,0 +1,9 @@
+.idea/
+/vendor/
+.DS_Store
+.AppleDouble
+.LSOverride
+.env
+.env.local
+.env.*.local
+/composer.lock
